@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @innotexak
-- 👀 I’m interested in Python, Django, JavaScript
-- 🌱 I’m currently learning React 
-- 💞️ I’m looking to collaborate in building a viable solution that can stand a taste of time
-- 📫 How to reach me => @ innotexak in all socials 
-
-<!---
-innotexak/innotexak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, My name is Akuh Innocent, I'm a trained software developer with a strong passion for creating and designing digital software solutions. With over 4 years experience in tech and ever ready to meeting people and learning new technologies. It may interest you to know too that I'm a very fast learner. Over the years i have got a success story in IT training and full stack web developer job role. My major stack is Python, Django and JavaScript. I’m currently learning React.js. 📫innotexak in all socials 
