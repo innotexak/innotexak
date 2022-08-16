@@ -1,1 +1,1 @@
-Software Engineer skilly ballanced ✓ (Python/Django, Nodejs/Nestjs & Reactjs/Nextjs) 
+Software Engineer skilfully ballanced ✓ (Python/Django, Nodejs/Nestjs & Reactjs/Nextjs) 
