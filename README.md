@@ -1,4 +1,4 @@
-```
-##Intro
-Software Engineer skilfully ballanced ✓ (Python/Django, Nodejs/Nestjs & Reactjs/Nextjs) 
-```
+
+#Intro
+
+##Software Engineer skilfully ballanced ✓ (Python, Nodejs, Nestjs, Reactjs,  & Nextjs) 
