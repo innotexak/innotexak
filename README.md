@@ -4,7 +4,7 @@
 
 # 👋 Innocent Akuh
 
-### Full-Stack Developer | MERN & .NET Specialist | Problem Solver
+### Software Engineer | MERN & .NET Specialist | Problem Solver
 
 
 
