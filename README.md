@@ -6,7 +6,7 @@
 
 ### Full-Stack Developer | MERN & .NET Specialist | Problem Solver
 
-<img src="https://github.com/innotexak.png" alt="Innocent Akuh" width="120" height="120" style="border-radius: 50%; border: 3px solid #0369a1;"/>
+<img src="https://api.github.com/users/innotexak/avatar" alt="Innocent Akuh" width="120" height="120" style="border-radius: 50%; border: 3px solid #0369a1;"/>
 
 ```
 $ I build scalable web applications with modern tech stacks |
