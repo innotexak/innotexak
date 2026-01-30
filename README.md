@@ -18,7 +18,7 @@ React • Node.js • Express.js • MongoDB • JavaScript • Umbraco • ASP.
 
 - 💼 [LinkedIn](https://linkedin.com/in/innotexak)
 - 🐦 [Twitter](https://twitter.com/innotexak)
-- 📧 [Email](mailto:your-email@example.com)
+- 📧 [Email](mailto:akuhinnocent2016@gmail.com)
 
 ---
 
