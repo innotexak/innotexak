@@ -1,4 +1,4 @@
-# Hi, I'm Innotexak 👨‍💻
+# Hi, I'm Innocent Akuh 👨‍💻
 
 ```
 $ I build scalable web applications with MERN stack |
