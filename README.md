@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=innotexak&color=0369a1&style=flat-square&label=PROFILE+VIEWS)
 
-# 👋 Innocent Akuh
+# Innocent Akuh
 
 ### Software Engineer | MERN & .NET Specialist | Problem Solver
 
