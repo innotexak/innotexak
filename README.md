@@ -33,7 +33,7 @@ I specialize in building **full-stack applications** that are fast, scalable, an
   </tr>
   <tr>
     <td><strong>Database</strong></td>
-    <td>MongoDB, SQL Server</td>
+    <td>MongoDB, SQL Server, PostgreSQL, MSSQL </td>
   </tr>
   <tr>
     <td><strong>CMS</strong></td>
